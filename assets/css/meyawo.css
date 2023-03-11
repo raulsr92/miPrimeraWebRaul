@@ -11411,6 +11411,7 @@ p {
   margin-bottom: 30px;
   border-radius: 0;
   overflow: hidden;
+
 }
 
 .blog-card-header {
@@ -11713,6 +11714,9 @@ pre .code {
 .custom-navbar.affix {
   background: #fff;
   border-bottom: 1px solid rgba(222, 226, 230, 0.34);
+}
+.header-content .header-title .down{
+  color: #7B241C;
 }
 
 .custom-navbar.affix .logo {
